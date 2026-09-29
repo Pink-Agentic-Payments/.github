@@ -8,6 +8,7 @@ Status: early access. The product is not publicly available yet. Join the waitli
 
 - [agentic-payments-readiness](https://github.com/Pink-Agentic-Payments/agentic-payments-readiness): an open dataset scoring 13 payment providers on 7 agent-readiness dimensions, CC BY 4.0.
 - [agent-spending-limit-example](https://github.com/Pink-Agentic-Payments/agent-spending-limit-example): a runnable example of enforcing an agent's spending cap before a payment tool runs, MIT.
+- [awesome-agentic-payments](https://github.com/Pink-Agentic-Payments/awesome-agentic-payments): a curated, link-verified list of agentic payment protocols, MCP servers, wallets and spending controls.
 
 ## Learn
 
