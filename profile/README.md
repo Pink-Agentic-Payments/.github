@@ -6,8 +6,8 @@ Status: early access. The product is not publicly available yet. Join the waitli
 
 ## Open resources
 
-- [agentic-payments-readiness](https://github.com/Pink-Agentic-Payments/agentic-payments-readiness): an open dataset scoring 16 payment providers on 7 agent-readiness dimensions, CC BY 4.0.
-- [agent-spending-controls-crosswalk](https://github.com/Pink-Agentic-Payments/agent-spending-controls-crosswalk): a quoted crosswalk of how 14 payment providers and protocols let you cap AI agent spending, 43 rows, CC BY 4.0.
+- [agentic-payments-readiness](https://github.com/Pink-Agentic-Payments/agentic-payments-readiness): an open dataset scoring 16 payment providers on 7 agent-readiness dimensions, CC BY 4.0. · [Hugging Face](https://huggingface.co/datasets/Agentic-Payment/agentic-payments-readiness)
+- [agent-spending-controls-crosswalk](https://github.com/Pink-Agentic-Payments/agent-spending-controls-crosswalk): a quoted crosswalk of how 14 payment providers and protocols let you cap AI agent spending, 43 rows, CC BY 4.0. · [Hugging Face](https://huggingface.co/datasets/Agentic-Payment/agent-spending-controls-crosswalk)
 - [agent-spending-policy](https://github.com/Pink-Agentic-Payments/agent-spending-policy): a draft v0.1 vendor-neutral JSON Schema for an AI agent's spending policy (caps, allowlists, approval thresholds), mapped field-by-field to the crosswalk. Not a standard. CC BY 4.0 docs / Apache-2.0 code.
 - [agent-spending-limit-example](https://github.com/Pink-Agentic-Payments/agent-spending-limit-example): a runnable example of enforcing an agent's spending cap before a payment tool runs, MIT.
 - [awesome-agentic-payments](https://github.com/Pink-Agentic-Payments/awesome-agentic-payments): a curated, link-verified list of agentic payment protocols, MCP servers, wallets and spending controls.
