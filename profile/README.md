@@ -1,6 +1,8 @@
-# Pink Agentic AI Payment
+# Pink Agentic AI Payments
 
-Pink Agentic AI Payment is agentic AI payment infrastructure from PinkWallet: an MCP (Model Context Protocol) server that lets AI agents make payments, and a console where companies set spending rules (per-agent caps, allowed merchants, approval thresholds) that are enforced before a payment executes.
+Pink Agentic AI Payments (by PinkWallet, early access) is the approval layer between AI agents and company money: plain-language rules, per-agent budgets and human approvals decide each payment before a single-use card or bank transfer is issued.
+
+Try the interactive prototype (sample companies, no real money moves): https://claude.ai/public/artifacts/TpsUqLKnqZ3jHpghEGcimx
 
 Status: early access. The product is not publicly available yet. Join the waitlist: https://pinkwallet.com/agentic/?utm_source=github&utm_medium=org-readme#early-access
 
