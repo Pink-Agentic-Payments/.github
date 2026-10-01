@@ -2,9 +2,15 @@
 
 Pink Agentic AI Payments (by PinkWallet, early access) is the approval layer between AI agents and company money: plain-language rules, per-agent budgets and human approvals decide each payment before a single-use card or bank transfer is issued.
 
+## Try it
+
+- **Live sandbox**: https://agentic-sandbox.pinkwallet.com/ — create a free workspace (test credentials only, no money moves; production not yet available).
+- **MCP endpoint**: `https://agentic-sandbox.pinkwallet.com/mcp` (Streamable HTTP, `Authorization: Bearer <agent key>`), 7 tools: `pink.get_budget`, `pink.list_payees`, `pink.list_rules`, `pink.check_policy`, `pink.request_payment`, `pink.get_credential`, `pink.report_receipt`. Claude Code: `claude mcp add --transport http pink https://agentic-sandbox.pinkwallet.com/mcp --header "Authorization: Bearer <AGENT_KEY>"`
+- **Quickstart**: https://pinkwallet.com/agentic/developers/quickstart/ (full guides: https://pinkwallet.com/agentic/developers/) — listed in the official MCP Registry as `com.pinkwallet/agentic-payments-sandbox`.
+
 Try the interactive prototype (sample companies, no real money moves): https://claude.ai/public/artifacts/TpsUqLKnqZ3jHpghEGcimx
 
-Status: early access. The product is not publicly available yet. Join the waitlist: https://pinkwallet.com/agentic/?utm_source=github&utm_medium=org-readme#early-access
+Status: early access. Join the waitlist for production access: https://pinkwallet.com/agentic/?utm_source=github&utm_medium=org-readme#early-access
 
 ## Open resources
 
