@@ -2,6 +2,8 @@
 
 Pink Agentic AI Payments (by PinkWallet, early access) is the approval layer between AI agents and company money: plain-language rules, per-agent budgets and human approvals decide each payment before a single-use card or bank transfer is issued.
 
+Design partners wanted: free hands-on setup and early access during the design-partner period, at [agentic-sandbox.pinkwallet.com/demo](https://agentic-sandbox.pinkwallet.com/demo). Reach us at [support@pinkwallet.com](mailto:support@pinkwallet.com) or open an issue titled "Design partner" in this repo.
+
 ## Try it
 
 - **Live sandbox**: https://agentic-sandbox.pinkwallet.com/ — create a free workspace (test credentials only, no money moves; production not yet available).
