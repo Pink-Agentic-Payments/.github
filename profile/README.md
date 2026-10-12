@@ -15,6 +15,7 @@ Status: early access. Join the waitlist for production access: https://pinkwalle
 
 ## Open resources
 
+- [pink-agentic-payments-python](https://github.com/Pink-Agentic-Payments/pink-agentic-payments-python): the official Python client for Pink Agentic AI Payments (sandbox), MIT.
 - [agentic-ai-payments](https://github.com/Pink-Agentic-Payments/agentic-ai-payments): an open developer guide to agentic AI payments — protocols, providers, spending controls, and a runnable sandbox quickstart, CC BY 4.0.
 - [agentic-payments-readiness](https://github.com/Pink-Agentic-Payments/agentic-payments-readiness): an open dataset scoring 16 payment providers on 7 agent-readiness dimensions, CC BY 4.0. · [Hugging Face](https://huggingface.co/datasets/Agentic-Payment/agentic-payments-readiness)
 - [agent-spending-controls-crosswalk](https://github.com/Pink-Agentic-Payments/agent-spending-controls-crosswalk): a quoted crosswalk of how 14 payment providers and protocols let you cap AI agent spending, 43 rows, CC BY 4.0. · [Hugging Face](https://huggingface.co/datasets/Agentic-Payment/agent-spending-controls-crosswalk)
